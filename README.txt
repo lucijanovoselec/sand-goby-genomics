@@ -28,4 +28,7 @@ plot the results (similar to dinvestigate plot)
 used https://github.com/reslp/phylociraptor for phylogenomic analyses
 
 
+for heterozygosity and inbreeding coefficients:
+"vcftools --gzvcf {input.vcf} --het --out {params}"
+plot the results(similar to dinvestigate plot)
 
